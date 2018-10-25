@@ -1,0 +1,18 @@
+GIT COMMANDS:
+1. init :- to initilize the git. 
+             e.g. git init
+2. add . (add *) :- to add the file in repository.
+             e.g. git add hello.txt
+                    git add .
+                    git add *
+3. commit :- to save the file locally in repository.
+              e.g. git commit -m "add  a new file"
+4. push :- to move or save file to master branch.
+               e.g. git push
+5. pull :- to move file from master branch to desire branch.
+           
+6. status :- to check the status of the git.
+               e.g. git status
+7. checkout -b :-  to create new branch.
+                e.g. git checkout -b "git-branch"
+8. remote add :- to add remote.
